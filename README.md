@@ -102,6 +102,8 @@ Please include a link to a public repo with your completed work. Include a video
 - Any assumptions or shortcuts you made.
 - What you would prioritize improving if moving from POC to a more production-ready system.
 
+The video should be under 5 minutes. We are looking for clear communication and insight into your thought process, not a polished presentation.
+
 ## What Good Scope Looks Like
 
 A strong submission is not the most complex submission. A strong submission is one that makes sensible tradeoffs, keeps the implementation understandable, and clearly demonstrates the core competencies this role requires.
